@@ -72,7 +72,6 @@ msgstr ""
 #: model:ir.actions.act_window,name:agreement.agreement_type_action
 #: model:ir.model,name:agreement.model_agreement_type
 #: model:ir.ui.menu,name:agreement.agreement_type_menu
-#: model_terms:ir.ui.view,arch_db:agreement.agreement_type_list_view
 msgid "Agreement Types"
 msgstr ""
 
@@ -80,7 +79,6 @@ msgstr ""
 #: model:ir.actions.act_window,name:agreement.agreement_action
 #: model:ir.ui.menu,name:agreement.agreement_menu
 #: model:ir.ui.menu,name:agreement.agreement_menu_root
-#: model_terms:ir.ui.view,arch_db:agreement.agreement_tree
 msgid "Agreements"
 msgstr ""
 
