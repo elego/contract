@@ -256,7 +256,6 @@ msgstr ""
 #: model:ir.ui.menu,name:agreement_serviceprofile.agreement_serviceprofiles
 #: model:ir.ui.menu,name:agreement_serviceprofile.dashboard_serviceprofiles
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_fsm_order_form_view
-#: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_tree
 msgid "Service Profiles"
 msgstr ""
 
